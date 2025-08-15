@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Portfolio website for Vishal Thakur - Ruby on Rails Developer",
   "scripts": {
-    "build": "mkdir -p dist && cp index.html dist/ && cp -r docs dist/ 2>/dev/null || true"
+    "build": "mkdir -p dist && cp index.html dist/ && cp -r attached_assets dist/ 2>/dev/null || true"
   },
   "keywords": ["portfolio", "ruby-on-rails", "developer"],
   "author": "Vishal Thakur",
